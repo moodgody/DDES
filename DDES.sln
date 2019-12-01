@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDEClient", "DDEClient\DDEClient.csproj", "{19A3FAB6-A78D-418A-9EA3-6B69F40AA045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDEServer", "DDEServer\DDEServer.csproj", "{C32BB583-A50A-4446-80AE-D92774917FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A3FAB6-A78D-418A-9EA3-6B69F40AA045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A3FAB6-A78D-418A-9EA3-6B69F40AA045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A3FAB6-A78D-418A-9EA3-6B69F40AA045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A3FAB6-A78D-418A-9EA3-6B69F40AA045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32BB583-A50A-4446-80AE-D92774917FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32BB583-A50A-4446-80AE-D92774917FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32BB583-A50A-4446-80AE-D92774917FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32BB583-A50A-4446-80AE-D92774917FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225B637E-C0D5-4F7A-8025-55A92AF7CC8B}
+	EndGlobalSection
+EndGlobal
